@@ -10,7 +10,7 @@
       "runtimeArgs": [
         "run-script",
         "start",
-        "day04"
+        "day05"
       ],
       "runtimeExecutable": "npm",
       "skipFiles": [
