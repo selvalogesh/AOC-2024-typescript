@@ -7,15 +7,9 @@
     {
       "name": "Launch via NPM",
       "request": "launch",
-      "runtimeArgs": [
-        "run-script",
-        "start",
-        "day05"
-      ],
+      "runtimeArgs": ["run-script", "start", "day06"],
       "runtimeExecutable": "pnpm",
-      "skipFiles": [
-        "<node_internals>/**"
-      ],
+      "skipFiles": ["<node_internals>/**"],
       "sourceMaps": true,
       "type": "node"
     }
